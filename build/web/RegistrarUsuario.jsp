@@ -1,6 +1,6 @@
 <%-- 
-    Document   : RegistrarUsario
-    Created on : 6/10/2021, 11:52:06 a. m.
+    Document   : RegistrarUsuario
+    Created on : 6/10/2021, 3:40:02 p. m.
     Author     : Usuario
 --%>
 

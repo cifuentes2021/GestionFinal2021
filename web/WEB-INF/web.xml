@@ -12,6 +12,10 @@
         <servlet-name>LibroControl</servlet-name>
         <servlet-class>controller.LibroControl</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ControlUsuario</servlet-name>
+        <servlet-class>controller.ControlUsuario</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>CategoriaControl</servlet-name>
         <url-pattern>/CategoriaControl</url-pattern>
@@ -23,6 +27,10 @@
     <servlet-mapping>
         <servlet-name>LibroControl</servlet-name>
         <url-pattern>/LibroControl</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ControlUsuario</servlet-name>
+        <url-pattern>/ControlUsuario</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
